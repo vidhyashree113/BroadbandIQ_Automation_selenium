@@ -1,0 +1,5 @@
+CSV_FILE = "Shortest Path_Locate_Opportunities_09-30-25_12_03_43.csv"
+CSV_FILE2 = "Second Best Path_Locate_Opportunities_09-30-25_12_04_50.csv"
+ORGANIZATION = "Conterra"
+ROUTE_VALUE = "Home Run"
+LAYER_VALUE = "Shortest Path_Locate_Opportunities_09-30-25_12_03_43"
